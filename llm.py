@@ -28,7 +28,7 @@ _abab6_5s_chat = ChatOpenAI(
 
 
 
-chapter_gen_llm = _abab6_5s_chat
+chapter_gen_llm = _deepseek_v3
 chapter_score_llm = _deepseek_r1
 chapter_score_llm_2 = _qwen_max_llm
 chapter_score_llm_3 = _deepseek_v3
